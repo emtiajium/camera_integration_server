@@ -7,7 +7,7 @@ Please make sure you have working setup of these tools before trying it.
 ## Installation
 In order to use this boilerplate, please follow these steps
 
- 1. `git clone https://emtiajium@bitbucket.org/emtiajium/backbone_express_boilerplate.git`
+ 1. clone project
  2. `bower install`
  3. `npm install`
  
