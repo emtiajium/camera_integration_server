@@ -1,0 +1,28 @@
+{
+  "name": "an_app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./server/bin/www"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "description": "a description",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "javascript",
+    "backbone",
+    "express",
+    "requirejs",
+    "node"
+  ],
+  "author": "271emtiaj@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

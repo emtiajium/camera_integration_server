@@ -1,0 +1,9 @@
+{
+  "name": "an_app",
+  "version": "1.0.0",
+  "authors": "271emtiaj@gmail.com",
+  "homepage": "index_home.html",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

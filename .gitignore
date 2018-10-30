@@ -1,0 +1,9 @@
+node_modules
+bower_components
+client/bower_components
+npm-debug.log
+.idea
+.DS_Store
+server/logs/
+/server/files/
+package-lock.json
